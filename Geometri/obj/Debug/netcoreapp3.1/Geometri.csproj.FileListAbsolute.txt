@@ -1,0 +1,24 @@
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.exe
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.deps.json
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.runtimeconfig.json
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.runtimeconfig.dev.json
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.dll
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.pdb
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.AssemblyInfoInputs.cache
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.AssemblyInfo.cs
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.csproj.CoreCompileInputs.cache
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.dll
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.pdb
+C:\TestUppgifter\Geometriska figurer\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.genruntimeconfig.cache
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.exe
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.deps.json
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.runtimeconfig.json
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.runtimeconfig.dev.json
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.dll
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\bin\Debug\netcoreapp3.1\Geometri.pdb
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.AssemblyInfoInputs.cache
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.AssemblyInfo.cs
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.csproj.CoreCompileInputs.cache
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.dll
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.pdb
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Geometri\obj\Debug\netcoreapp3.1\Geometri.genruntimeconfig.cache

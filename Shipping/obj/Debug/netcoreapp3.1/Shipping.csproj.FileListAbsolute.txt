@@ -1,0 +1,25 @@
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.AssemblyInfoInputs.cache
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.AssemblyInfo.cs
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.csproj.CoreCompileInputs.cache
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.exe
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.deps.json
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.runtimeconfig.json
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.runtimeconfig.dev.json
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.dll
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.pdb
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.dll
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.pdb
+C:\TestUppgifter\Geometriska figurer\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.genruntimeconfig.cache
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.exe
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.deps.json
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.runtimeconfig.json
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.runtimeconfig.dev.json
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.dll
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\bin\Debug\netcoreapp3.1\Shipping.pdb
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.csprojAssemblyReference.cache
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.AssemblyInfoInputs.cache
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.AssemblyInfo.cs
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.dll
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.pdb
+C:\Users\kvd802\Downloads\JobbTest-main\Geometri\Shipping\obj\Debug\netcoreapp3.1\Shipping.genruntimeconfig.cache
